@@ -3,7 +3,9 @@
 [演示地址](https://vitozyf.github.io/lucky-draw/index.html#/?tdsourcetag=s_pctim_aiomsg)
 
 ## 使用说明
+#### npm install 安装依赖
 
+#### npm run dev 跑项目
 ### 配置建议
 
 - 本程序理论支持配置百万级别人数，超过 10 万以上时初始化会比较耗时，初始化后可以正常抽奖。
